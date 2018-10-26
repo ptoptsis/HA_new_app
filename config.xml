@@ -3,8 +3,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.humanasset.lmsallnew"
-        versionCode = "20181001"
-        android-versionCode="20181001"
+        versionCode = "20181000"
+        android-versionCode="20181000"
         version   = "2.1.1">
     <name>HA elearning</name>
 
