@@ -10043,8 +10043,8 @@ button[disabled],
 }
 
 .button-outline-md-primary {
-  border-color: #ed7a11;
-  color: #ed7a11;
+  border-color: #88D4E5;
+  color: #88D4E5;
   background-color: #ffffff;
 }
 
@@ -10057,7 +10057,7 @@ button[disabled],
 }
 
 .button-outline-md-primary .button-effect {
-  background-color: #ed7a11;
+  background-color: #88D4E5;
 }
 
 .button-clear-md-primary {
@@ -10622,13 +10622,13 @@ button[disabled],
 }
 
 .button-outline-wp-primary {
-  border-color: #ed7a11;
-  color: #ed7a11;
+  border-color: #88D4E5;
+  color: #88D4E5;
   background-color: #ffffff;
 }
 
 .button-outline-wp-primary:hover:not(.disable-hover) {
-  border-color: #ed7a11;
+  border-color: #88D4E5;
   background-color: rgba(158, 158, 158, 0.1);
 }
 
