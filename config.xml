@@ -3,9 +3,9 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.humanasset.lmsallnew"
-        versionCode = "201810002"
-        android-versionCode="201810002"
-        version   = "2.1.3">
+        versionCode = "201901001"
+        android-versionCode="201901001"
+        version   = "2.1.4">
     <name>HA elearning</name>
 
     <description>
@@ -17,7 +17,7 @@
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>2.1.3</string>
+        <string>2.1.4</string>
     </edit-config>
 
     <gap:platform name="ios" />
