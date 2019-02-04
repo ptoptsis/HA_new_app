@@ -3,13 +3,13 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.humanasset.lmsallnew"
-        versionCode = "201901004"
-        android-versionCode="201901004"
-        version   = "2.1.7">
-    <name>HA elearning</name>
+        versionCode = "201901005"
+        android-versionCode="201901005"
+        version   = "2.1.8">
+    <name>HA eLearning</name>
 
     <description>
-        HA elearning official app
+        Human Asset SA eLearning official app
     </description>
 
     <author href="http://www.humanasset.com" email="info@humanasset.com">
@@ -17,7 +17,7 @@
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>2.1.7</string>
+        <string>2.1.8</string>
     </edit-config>
 
     <gap:platform name="ios" />
